@@ -1,4 +1,4 @@
-                        -HD:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp
+                        -HD:\gamer\proj\unity\unity6-universal3d-export-android\Android\unityLibrary\src\main\cpp
 -DCMAKE_SYSTEM_NAME=Android
 -DCMAKE_EXPORT_COMPILE_COMMANDS=ON
 -DCMAKE_SYSTEM_VERSION=26
@@ -9,11 +9,11 @@
 -DCMAKE_ANDROID_NDK=C:\Softwares\UnityHub\Editor\6000.6.2f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK
 -DCMAKE_TOOLCHAIN_FILE=C:\Softwares\UnityHub\Editor\6000.6.2f1\Editor\Data\PlaybackEngines\AndroidPlayer\NDK\build\cmake\android.toolchain.cmake
 -DCMAKE_MAKE_PROGRAM=C:\Softwares\UnityHub\Editor\6000.6.2f1\Editor\Data\PlaybackEngines\AndroidPlayer\SDK\cmake\3.22.1\bin\ninja.exe
--DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\build\intermediates\cxx\Debug\j1j5p6p4\obj\arm64-v8a
--DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\build\intermediates\cxx\Debug\j1j5p6p4\obj\arm64-v8a
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=D:\gamer\proj\unity\unity6-universal3d-export-android\Android\unityLibrary\build\intermediates\cxx\Debug\j1j5p6p4\obj\arm64-v8a
+-DCMAKE_RUNTIME_OUTPUT_DIRECTORY=D:\gamer\proj\unity\unity6-universal3d-export-android\Android\unityLibrary\build\intermediates\cxx\Debug\j1j5p6p4\obj\arm64-v8a
 -DCMAKE_BUILD_TYPE=Debug
--DCMAKE_FIND_ROOT_PATH=D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\.cxx\Debug\j1j5p6p4\prefab\arm64-v8a\prefab
--BD:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\.cxx\Debug\j1j5p6p4\arm64-v8a
+-DCMAKE_FIND_ROOT_PATH=D:\gamer\proj\unity\unity6-universal3d-export-android\Android\unityLibrary\.cxx\Debug\j1j5p6p4\prefab\arm64-v8a\prefab
+-BD:\gamer\proj\unity\unity6-universal3d-export-android\Android\unityLibrary\.cxx\Debug\j1j5p6p4\arm64-v8a
 -GNinja
 -DANDROID_STL=c++_shared
 -DANDROID_SUPPORT_FLEXIBLE_PAGE_SIZES=ON
