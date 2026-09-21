@@ -67,3 +67,99 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# ======================================================
+# Unity 通用忽略规则 start
+# ======================================================
+
+# Unity 自动生成的文件夹
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# IL2CPP 生成的备份文件
+/[Ii]l2[Cc]pp[Bb]ackup/
+
+# Asset meta data 应该被提交，但 Unity 生成的崩溃报告应该忽略
+sysinfo.txt
+
+# 自动生成的 VS/MD 解决方案文件
+.vs/
+.gradle/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# Unity3D 生成的
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# ======================================================
+# Android / Gradle 特定忽略规则 (针对导出的 Android 文件夹)
+# ======================================================
+
+# Android Studio / Gradle 构建产物
+/Android/.gradle/
+/Android/.idea/
+/Android/build/
+/Android/app/build/
+/Android/[Ll]ibrary/
+/Android/[Tt]emp/
+/Android/[Oo]bj/
+/Android/captures/
+/Android/local.properties
+/Android/.externalNativeBuild/
+/Android/.cxx/
+
+# 签名文件 (极其重要：千万不要把签名文件传到公开仓库)
+/Android/*.keystore
+/Android/*.jks
+/Android/*.p12
+/Android/keystore.properties
+
+# 导出的 APK/AAB 文件
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# ======================================================
+# 操作系统及 IDE 通用忽略
+# ======================================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# JetBrains (Rider/Android Studio)
+.idea/
+*.iml
+
+# ======================================================
+# Unity 通用忽略规则 end
+# ======================================================

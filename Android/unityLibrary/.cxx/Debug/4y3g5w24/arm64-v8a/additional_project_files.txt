@@ -1,0 +1,17 @@
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\GAToUnityCallbacks.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\MacroEnd.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\MacroHeaderBegin.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\MacroSourceBegin.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UGAApplication.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UGAConfiguration.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UGADebug.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UGAEvents.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UGAInput.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboard.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UGASoftKeyboardCallbacks.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UGATypes.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UGAVersion.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UnityToGACallbacks.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UnityToGAConfigurationCallbacks.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UnityToGAKeyEventCallbacks.h
+D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\UnityToGAMotionEventCallbacks.h
