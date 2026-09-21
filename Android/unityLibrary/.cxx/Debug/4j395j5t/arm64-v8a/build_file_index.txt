@@ -1,2 +1,0 @@
-D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\CMakeLists.txt
-D:\gamer\proj\unity\u3d-learn2\Android\unityLibrary\src\main\cpp\GameActivity\CMakeLists.txt
