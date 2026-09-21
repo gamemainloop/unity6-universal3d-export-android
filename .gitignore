@@ -51,6 +51,7 @@ cmake_install.cmake
 Makefile
 install_manifest.txt
 compile_commands.json
+.cxx/
 
 # Temporary files
 *.tmp
@@ -129,6 +130,7 @@ sysinfo.txt
 /Android/local.properties
 /Android/.externalNativeBuild/
 /Android/.cxx/
+/Android/unityLibrary/.cxx/
 
 # 签名文件 (极其重要：千万不要把签名文件传到公开仓库)
 /Android/*.keystore
